@@ -9,3 +9,22 @@
   margin-left: 34px;
 }
 
+
+@media screen and (max-width : 500px) {
+
+  .Top-Heading h1 {
+    font-size: 10px;
+    width: 50%;
+    margin-left: 85px;
+  }
+}
+
+
+@media screen and (max-width : 350px) {
+
+  .Top-Heading h1 {
+    font-size: 8px;
+    width: 50%;
+    
+  }
+}
