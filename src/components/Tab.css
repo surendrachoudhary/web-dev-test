@@ -1,0 +1,8 @@
+button {
+    margin: 10px;
+}
+
+.switch_button {
+    display: flex;
+    justify-content: center;
+}
